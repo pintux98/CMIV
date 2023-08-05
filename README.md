@@ -9,4 +9,4 @@ It works with the latest [CMI](https://www.spigotmc.org/resources/cmi-298-comman
 
 For BungeeCord please use this instead [HERE](https://www.zrips.net/cmib/)
 
-For bugs please contact me on discord (pintux)
+For bugs please open an issue [HERE](https://github.com/pintux98/CMIV/issues)
