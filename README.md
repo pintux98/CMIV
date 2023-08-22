@@ -10,3 +10,5 @@ It works with the latest [CMI](https://www.spigotmc.org/resources/cmi-298-comman
 For BungeeCord please use this instead [HERE](https://www.zrips.net/cmib/)
 
 For bugs please open an issue [HERE](https://github.com/pintux98/CMIV/issues)
+
+[Donate to support this project and future ones!](https://www.paypal.com/donate/?hosted_button_id=ZM8VEAX89NVD2)
